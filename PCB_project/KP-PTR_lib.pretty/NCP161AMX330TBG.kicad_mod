@@ -1,0 +1,348 @@
+(footprint "NCP161AMX330TBG"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.532 -1.4064 0)
+		(layer "F.SilkS")
+		(uuid "fc3eee28-10b9-422c-8c8d-c296e71dfbe7")
+		(effects
+			(font
+				(size 0.64 0.64)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "NCP161AMX330TBG"
+		(at 2.159 1.27 0)
+		(layer "F.Fab")
+		(uuid "3d0b87dc-4c2f-4004-91d6-c74644e918b1")
+		(effects
+			(font
+				(size 0.64 0.64)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e93d35f4-09df-4887-8901-f30a3b37a55c")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a29f79ff-f713-4322-a9a0-a87b40b29c98")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_poly
+		(pts
+			(xy -0.65 -0.505) (xy -0.16 -0.505) (xy -0.16 -0.32) (xy -0.335 -0.145) (xy -0.65 -0.145)
+		)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Mask")
+		(uuid "f284b1e2-75a4-4a3f-a5f4-6f05f15fb4f5")
+	)
+	(fp_poly
+		(pts
+			(xy -0.65 0.505) (xy -0.16 0.505) (xy -0.16 0.32) (xy -0.335 0.145) (xy -0.65 0.145)
+		)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Mask")
+		(uuid "96781640-c07e-4eea-a372-067ded96b703")
+	)
+	(fp_poly
+		(pts
+			(xy 0.65 -0.505) (xy 0.16 -0.505) (xy 0.16 -0.32) (xy 0.335 -0.145) (xy 0.65 -0.145)
+		)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Mask")
+		(uuid "4160bbf7-ffff-4c5c-a647-5ee58ddecf06")
+	)
+	(fp_poly
+		(pts
+			(xy 0.65 0.505) (xy 0.16 0.505) (xy 0.16 0.32) (xy 0.335 0.145) (xy 0.65 0.145)
+		)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Mask")
+		(uuid "8ae05d37-86b4-45ea-800f-f1f9fb167857")
+	)
+	(fp_circle
+		(center -1.25 -0.35)
+		(end -1.15 -0.35)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "b7ac5cea-ed28-4028-87d0-45e58c709cf1")
+	)
+	(fp_poly
+		(pts
+			(xy -0.6 -0.455) (xy -0.21 -0.455) (xy -0.21 -0.345) (xy -0.36 -0.195) (xy -0.6 -0.195)
+		)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "93ac15d8-5f91-4361-acff-be4992b93b51")
+	)
+	(fp_poly
+		(pts
+			(xy -0.6 0.455) (xy -0.21 0.455) (xy -0.21 0.345) (xy -0.36 0.195) (xy -0.6 0.195)
+		)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "661ca2ba-bce5-4308-99a6-de333a625515")
+	)
+	(fp_poly
+		(pts
+			(xy 0.6 -0.455) (xy 0.21 -0.455) (xy 0.21 -0.345) (xy 0.36 -0.195) (xy 0.6 -0.195)
+		)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "7582a530-a952-46c1-b7eb-75006524ba29")
+	)
+	(fp_poly
+		(pts
+			(xy 0.6 0.455) (xy 0.21 0.455) (xy 0.21 0.345) (xy 0.36 0.195) (xy 0.6 0.195)
+		)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "044dde97-ee2e-473a-9264-ed4dff1893a5")
+	)
+	(fp_line
+		(start -0.85 -0.75)
+		(end 0.85 -0.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "bf8d857b-70bf-41ee-a068-5771461e04e9")
+	)
+	(fp_line
+		(start -0.85 0.75)
+		(end -0.85 -0.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "42b61d5b-39d6-462b-b2cc-57656078085f")
+	)
+	(fp_line
+		(start 0.85 -0.75)
+		(end 0.85 0.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "232ccf4f-3322-4e62-990b-290e6ff36fcd")
+	)
+	(fp_line
+		(start 0.85 0.75)
+		(end -0.85 0.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6d7ff8c0-8a2a-4636-844f-c7210ff3e6f2")
+	)
+	(fp_line
+		(start -0.5 -0.5)
+		(end -0.5 0.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f08895dc-4dcb-4aef-a39b-5a08864cdaaf")
+	)
+	(fp_line
+		(start -0.5 0.5)
+		(end 0.5 0.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6133fb54-5524-482e-9ae2-adbf29aced9e")
+	)
+	(fp_line
+		(start 0.5 -0.5)
+		(end -0.5 -0.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "acb6c3f3-e677-4f35-9fc2-138ba10f33af")
+	)
+	(fp_line
+		(start 0.5 0.5)
+		(end 0.5 -0.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5a33f5a4-a470-4c04-9e2d-532b5f01a5d6")
+	)
+	(fp_circle
+		(center -1.25 -0.35)
+		(end -1.15 -0.35)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "2ba25c40-ea42-478e-9150-1d94fa1c8ae9")
+	)
+	(pad "1" smd custom
+		(at -0.405 -0.325)
+		(size 0.1 0.1)
+		(layers "F.Cu")
+		(zone_connect 0)
+		(options
+			(clearance outline)
+			(anchor rect)
+		)
+		(primitives
+			(gr_poly
+				(pts
+					(xy 0.195 -0.02) (xy 0.045 0.13) (xy -0.195 0.13) (xy -0.195 -0.13) (xy 0.195 -0.13)
+				)
+				(width 0.01)
+				(fill yes)
+			)
+		)
+		(uuid "bd29b6d3-a58c-4b1f-9c20-de4efb708ab2")
+	)
+	(pad "2" smd custom
+		(at -0.405 0.325)
+		(size 0.1 0.1)
+		(layers "F.Cu")
+		(zone_connect 0)
+		(options
+			(clearance outline)
+			(anchor rect)
+		)
+		(primitives
+			(gr_poly
+				(pts
+					(xy 0.195 0.02) (xy 0.195 0.13) (xy -0.195 0.13) (xy -0.195 -0.13) (xy 0.045 -0.13)
+				)
+				(width 0.01)
+				(fill yes)
+			)
+		)
+		(uuid "765684c2-53b3-4ef7-bd1b-7a4a73d87b76")
+	)
+	(pad "3" smd custom
+		(at 0.405 0.325)
+		(size 0.1 0.1)
+		(layers "F.Cu")
+		(zone_connect 0)
+		(options
+			(clearance outline)
+			(anchor rect)
+		)
+		(primitives
+			(gr_poly
+				(pts
+					(xy 0.195 0.13) (xy -0.195 0.13) (xy -0.195 0.02) (xy -0.045 -0.13) (xy 0.195 -0.13)
+				)
+				(width 0.01)
+				(fill yes)
+			)
+		)
+		(uuid "2681e64d-bedc-4e1f-87d2-754aaa485bbd")
+	)
+	(pad "4" smd custom
+		(at 0.405 -0.325)
+		(size 0.1 0.1)
+		(layers "F.Cu")
+		(zone_connect 0)
+		(options
+			(clearance outline)
+			(anchor rect)
+		)
+		(primitives
+			(gr_poly
+				(pts
+					(xy 0.195 0.13) (xy -0.045 0.13) (xy -0.195 -0.02) (xy -0.195 -0.13) (xy 0.195 -0.13)
+				)
+				(width 0.01)
+				(fill yes)
+			)
+		)
+		(uuid "d035bb7a-e806-42f2-ba95-a390d279aef1")
+	)
+	(pad "5" smd rect
+		(at 0 0 45)
+		(size 0.52 0.52)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "a22bec73-a69c-4ab7-8d8d-f6a6b09f925f")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/bartek/Documents/GitHub/PTR/RuL/RuL_nano/lib/NCP170AMX300TCG.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)
