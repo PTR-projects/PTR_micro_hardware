@@ -3644,7 +3644,7 @@
 			)
 		)
 	)
-	(global_label "IGN1_DET"
+	(global_label "IGN2_DET"
 		(shape input)
 		(at 110.49 71.12 180)
 		(fields_autoplaced yes)
@@ -3692,7 +3692,7 @@
 			)
 		)
 	)
-	(global_label "IGN2_DET"
+	(global_label "IGN1_DET"
 		(shape input)
 		(at 110.49 58.42 180)
 		(fields_autoplaced yes)
@@ -3836,7 +3836,7 @@
 			)
 		)
 	)
-	(global_label "IGN2_EN"
+	(global_label "IGN1_EN"
 		(shape input)
 		(at 110.49 76.2 180)
 		(fields_autoplaced yes)
@@ -4028,7 +4028,7 @@
 			)
 		)
 	)
-	(global_label "IGN1_EN"
+	(global_label "IGN2_EN"
 		(shape input)
 		(at 110.49 78.74 180)
 		(fields_autoplaced yes)
@@ -8084,7 +8084,7 @@
 		(in_bom no)
 		(on_board yes)
 		(in_pos_files no)
-		(dnp no)
+		(dnp yes)
 		(uuid "a069c936-1b73-4515-a7dd-c3cee8aa8158")
 		(property "Reference" "J1"
 			(at 29.845 139.7 0)
