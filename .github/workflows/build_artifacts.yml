@@ -1,4 +1,4 @@
-name: Build basics
+name: Build artifacts
 on:
   push
   
